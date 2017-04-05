@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:pangloss/vim-javascript
+	branch = master
+	commit = f786167f9e394ed9e38198b3914e5a22bd885f58
+	parent = 2779f3f58efb78924bbb750e5d5bf46e667756c9
+	cmdver = 0.3.1
