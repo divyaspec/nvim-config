@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:mxw/vim-jsx
+	branch = master
+	commit = eb656ed96435ccf985668ebd7bb6ceb34b736213
+	parent = c0054e78ec25525c36e78ea07eaaee5da8a200c1
+	cmdver = 0.3.1
