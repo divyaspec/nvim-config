@@ -1,0 +1,6 @@
+My distributed nvim configuration
+
+This is my directory that contains my nvim init script, and any plugins deemed necessary.
+
+Free to use to anyone that wants a minimal configuration for nvim and don't wanna go through
+the hassle of having to scavenge plugins from the interwebz.
